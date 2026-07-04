@@ -1,4 +1,4 @@
-# Hi, I'm Amr Elbassiouni 👋
+# Hi, I'm Amr Elbassiouni 
 
 Computer Science graduate specialising in Artificial Intelligence with a passion for Software Engineering, Artificial Intelligence, and Cybersecurity. I enjoy designing and developing practical software solutions, exploring intelligent systems, and continuously expanding my technical skills through projects, coursework, online training, and hands-on experience.
 
